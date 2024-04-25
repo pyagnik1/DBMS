@@ -18,8 +18,4 @@ To make this assignment more official and improve its effectiveness, consider th
 
 - **Clarifications in Instructions**: Provide more detailed instructions, especially regarding edge cases and error handling.
 - **Additional Methods**: Include additional methods to enhance functionality, such as `delete`, `batch_put`, or `snapshot`.
-- **Unit Testing**: Implement unit tests to ensure the correctness and robustness of the code.
-- **Documentation**: Include comprehensive documentation, including comments within the code and a separate README file explaining the implementation details.
-- **Scalability Considerations**: Address scalability concerns by discussing potential limitations and proposing solutions for handling large datasets efficiently.
 
-By incorporating these modifications, the assignment can become more comprehensive, easier to understand, and better suited for educational purposes.
